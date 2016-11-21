@@ -6,7 +6,7 @@ import org.apache.commons.lang.time.DateFormatUtils;
 public class DateUtil {
 
         public static String getToday() {
-		//marczewski from idea
+		//marczewski from idea master
 
                 String today = DateFormatUtils.format(new Date(), "dd-MMM-yyyy");
             //marczewski 2 kolejny commit
