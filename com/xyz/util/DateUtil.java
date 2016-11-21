@@ -9,7 +9,7 @@ public class DateUtil {
 		//marczewski from master
 
                 String today = DateFormatUtils.format(new Date(), "dd-MMM-yyyy");
-            //marczewski 2
+            //marczewski 2 kolejny commit
                 return today;
         }
 }

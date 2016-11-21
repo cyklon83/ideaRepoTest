@@ -9,11 +9,11 @@ import org.junit.Test;
 
 public class DateUtilTest {
 
-        @Test
-        public void testGetToday() {
-                String actual = DateUtil.getToday();
-                String expected = new SimpleDateFormat("dd-MMM-yyyy")
-                                .format(new Date());
-                assertEquals(expected, actual);
-        }
+    @Test
+    public void testGetToday() {
+        String actual = DateUtil.getToday();
+        String expected = new SimpleDateFormat("dd-MMM-yyyy").format(new Date());
+        // kolejny commit
+        assertEquals(expected, actual);
+    }
 }
