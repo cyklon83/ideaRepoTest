@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4d312c52-4e7b-4206-9811-4be90bd63269" name="https://github.com/cyklon83/ideaRepoTest.git" url="https://github.com/cyklon83/ideaRepoTest.git">
+        <fileTransfer port="0" mountedRoot="B:\ideaWorkspace\multi-app\util\src\main\java" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

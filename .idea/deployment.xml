@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/cyklon83/ideaRepoTest.git" uploadOnCheckin="4d312c52-4e7b-4206-9811-4be90bd63269">
+    <serverData>
+      <paths name="https://github.com/cyklon83/ideaRepoTest.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/app" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/cyklon83/ideaRepoTest.git" />
+  </component>
+</project>
